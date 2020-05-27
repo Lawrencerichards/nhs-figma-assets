@@ -3,7 +3,7 @@ Figma assets for the NHS design system
 
 Figured it would be useful to have a system of drag and drop elements, that work in conjunction with the (fantastic) nhs prototyping kit for folks that perhaps aren't keen on running the coded version. I couldn't find any figma versions of the NHS design, so made my own. 
 
-Currently I've converted the colours and text, over time, and depending on how far I get, i'll try to add components as I go.
+Currently I've converted the colours and typography and most of the components for mobile.
 
 ## Installing
 
@@ -17,4 +17,4 @@ Then this will make the style elements available to all files within that projec
 
 ## Using
 
-You can use these colours and fonts by clicking on the 4 dots in the typography and colour section of the figma right-hand menu.
+You can use colours and fonts by clicking on the 4 dots in the typography and colour section of the figma right-hand menu. Components are in the assets tab next to layers at the top of the left hand panel 
